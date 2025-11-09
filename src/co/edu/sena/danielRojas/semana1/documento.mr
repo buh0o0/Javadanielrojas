@@ -1,0 +1,98 @@
+## 🧩 Objeto 1: Cliente
+
+**¿Qué es?**  
+Una empresa o marca que contrata los servicios de la agencia.
+
+**Características:**  
+- Nombre  
+- Industria  
+- Presupuesto  
+- Servicios contratados  
+- Contacto
+
+**Comportamientos:**  
+- Solicitar servicios  
+- Aprobar propuestas  
+- Recibir reportes  
+- Pagar facturas
+
+---
+
+## 🎯 Objeto 2: Campaña Publicitaria
+
+**¿Qué es?**  
+Una estrategia de publicidad específica para un cliente.
+
+**Características:**  
+- Código  
+- Cliente  
+- Plataforma  
+- Presupuesto  
+- Duración  
+- Objetivo
+
+**Comportamientos:**  
+- Crear campaña  
+- Lanzar  
+- Monitorear  
+- Ajustar presupuesto  
+- Generar reportes
+
+---
+
+## 🎨 Objeto 3: Contenido Multimedia
+
+**¿Qué es?**  
+Material visual o audiovisual creado para redes sociales.
+
+**Características:**  
+- Tipo (imagen, video, carrusel)  
+- Plataforma  
+- Formato  
+- Fecha publicación  
+- Engagement
+
+**Comportamientos:**  
+- Diseñar  
+- Programar publicación  
+- Medir engagement  
+- Editar
+
+---
+
+## 👨‍💻 Objeto 4: Especialista Digital
+
+**¿Qué es?**  
+Profesional que trabaja en la agencia manejando cuentas de clientes.
+
+**Características:**  
+- Nombre  
+- Cargo  
+- Especialidad  
+- Clientes asignados  
+- Experiencia
+
+**Comportamientos:**  
+- Crear estrategias  
+- Gestionar campañas  
+- Analizar métricas  
+- Atender clientes
+
+---
+
+## 📊 Objeto 5: Reporte de Analytics
+
+**¿Qué es?**  
+Documento que muestra los resultados y métricas de las campañas.
+
+**Características:**  
+- Periodo  
+- Métricas (alcance, clicks, conversiones)  
+- Insights  
+- Recomendaciones
+
+**Comportamientos:**  
+- Generar  
+- Analizar datos  
+- Exportar  
+- Presentar al cliente
